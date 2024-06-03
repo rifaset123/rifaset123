@@ -120,7 +120,7 @@
 </table>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Just in case you bored 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rifaset123/rifaset123/output/github-contribution-grid-snake.svg" />
   
