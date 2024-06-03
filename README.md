@@ -119,10 +119,11 @@
   </tr>
 </table>
 
-### Now Playing — Spotify 🎧
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rifaset123/rifaset123/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
