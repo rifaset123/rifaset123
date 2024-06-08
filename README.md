@@ -10,8 +10,8 @@
 
 <h1 align="center">💫 About Me 💫</h1>
 <p style="text-indent: 40px">
-  🔭 I'm currently an active student at Gadjah Mada University<br>
-  📚 Studying Software Engineer<br>
+  🔭 I'm currently an active student at Universitas Gadjah Mada<br>
+  📚 Studying Software Engineer <br>
   🔥 Ambitious, curious, and loves to discover new things <br>
   🌱 Still grow up and love learn new things<br>👓 Currently interested in React, Next, and Flutter<br>
   🤝 Can also do various things like video editing, 3d editing, art, and others especially in the entertainment field. <br>
